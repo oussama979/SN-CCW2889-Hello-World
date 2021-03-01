@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-03-01 13:00:29</sys_created_on>
+        <sys_id>f820033e076220104560f6fd7c1ed043</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_585392_ccw2889_h_message.x_585392_ccw2889_h.hello_user</sys_name>
+        <sys_package display_value="CCW2889 Hello World" source="x_585392_ccw2889_h">ea04f6b2072220104560f6fd7c1ed086</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="CCW2889 Hello World">ea04f6b2072220104560f6fd7c1ed086</sys_scope>
+        <sys_security_acl display_value="x_585392_ccw2889_h_message">7020033e076220104560f6fd7c1ed041</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_f820033e076220104560f6fd7c1ed043</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-03-01 13:00:29</sys_updated_on>
+        <sys_user_role display_value="x_585392_ccw2889_h.hello_user" name="x_585392_ccw2889_h.hello_user">9324f232072220104560f6fd7c1ed07b</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
